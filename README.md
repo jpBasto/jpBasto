@@ -19,10 +19,6 @@ I'm exploring the frontier of **Agentic AI systems** and building practical appl
 
 Right now I'm deep-diving into agent architectures, exploring how to build reliable autonomous systems that can handle complex, multi-step tasks. Each project here represents a different aspect of this journey.
 
-## 📫 Let's Connect
-
-- LinkedIn: https://www.linkedin.com/in/jpbasto/
-- Email: joao.basto@gmail.com
 
 ---
 
