@@ -9,12 +9,6 @@ I'm exploring the frontier of **Agentic AI systems** and building practical appl
 - Building real-world applications with autonomous AI agents
 - Exploring agent memory, planning, and reasoning capabilities
 
-## 🛠️ Tech Stack
-
-**AI/ML:** OpenAI API, Anthropic Claude  
-**Languages:**  JavaScript  
-**Tools:** Git, APIs
-
 ## 🌱 What I'm Learning
 
 Right now I'm deep-diving into agent architectures, exploring how to build reliable autonomous systems that can handle complex, multi-step tasks. Each project here represents a different aspect of this journey.
