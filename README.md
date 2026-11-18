@@ -11,7 +11,7 @@ I'm exploring the frontier of **Agentic AI systems** and building practical appl
 
 ## 🌱 What I'm Learning
 
-Right now I'm deep-diving into agent architectures, exploring how to build reliable autonomous systems that can handle complex, multi-step tasks. Each project here represents a different aspect of this journey.
+I'm exploring agent architectures, how to build reliable autonomous systems that can handle complex, multi-step tasks. Each project here represents a different aspect of this journey.
 
 
 ---
